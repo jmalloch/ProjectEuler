@@ -1,6 +1,6 @@
 # ProjectEuler
-Various solutions to problems from projecteuler.net
-List of problems completed and language of choice below.
+Various solutions to problems from projecteuler.net \n
+List of problems completed and language of choice below. \n
 | Problem #     | C               | Java            | Python          |
 | ------------- |:---------------:|:---------------:|:---------------:|
 | `Problem 1`   | Complete        |                 |                 |
